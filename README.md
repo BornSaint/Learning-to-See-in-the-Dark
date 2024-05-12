@@ -17,7 +17,7 @@ https://youtu.be/qWKUFK7MWvg
 
 ### Requirement
 ~~Required python (version 2.7) libraries: Tensorflow (>=1.1) + Scipy + Numpy + Rawpy.~~
-# Required python==3.7, tensorflow==1.13.2, scipy, rawpy, 
+# Required python==3.7, tensorflow==1.13.2, scipy, rawpy, protobuf==3.20.0
 # see "req" file
 
 Tested in Ubuntu + Intel i7 CPU + Nvidia Titan X (Pascal) with Cuda (>=8.0) and CuDNN (>=5.0). CPU mode should also work with minor changes but not tested.
